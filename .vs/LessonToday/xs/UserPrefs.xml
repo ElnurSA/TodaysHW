@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DD5033E7-F676-4DE2-8FE3-DEDD5100AFA1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LessonToday PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LessonToday/Program.cs">
+    <Files>
+      <File FileName="LessonToday/Program.cs" Line="251" Column="4" />
+      <File FileName="LessonToday/UserService.cs" Line="17" Column="10" />
+      <File FileName="LessonToday/Models/Product.cs" Line="9" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LessonToday" expanded="True">
+            <Node name="LessonToday">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

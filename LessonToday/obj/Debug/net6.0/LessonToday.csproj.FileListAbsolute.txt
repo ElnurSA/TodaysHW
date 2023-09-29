@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.AssemblyInfo.cs
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/bin/Debug/net6.0/LessonToday
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/bin/Debug/net6.0/LessonToday.deps.json
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/bin/Debug/net6.0/LessonToday.runtimeconfig.json
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/bin/Debug/net6.0/LessonToday.dll
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/bin/Debug/net6.0/LessonToday.pdb
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.dll
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/refint/LessonToday.dll
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.pdb
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/LessonToday.genruntimeconfig.cache
+/Users/safiyevelnur/Projects/LessonToday/LessonToday/obj/Debug/net6.0/ref/LessonToday.dll
